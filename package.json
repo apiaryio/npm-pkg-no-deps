@@ -1,0 +1,23 @@
+{
+  "name": "npm-pkg-no-deps",
+  "version": "1.0.0",
+  "description": "Almost empty package with no dependecies for testing npm api and package format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiaryio/npm-pkg-no-deps.git"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "Vilibald Wanča (vilibald.wanca@oracle.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiaryio/npm-pkg-no-deps/issues"
+  },
+  "homepage": "https://github.com/apiaryio/npm-pkg-no-deps#readme"
+}
